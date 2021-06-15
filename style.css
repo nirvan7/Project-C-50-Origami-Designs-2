@@ -1,0 +1,42 @@
+
+.menu,.bodyimg h3{
+background-color: #648293;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 400;
+color: blue;
+}
+
+h2{
+text-align: center;
+}
+
+.about{
+display:flex;
+justify-content: flex-end;
+
+}
+
+body{
+background-color: light
+blue;
+}
+
+.grid img{
+ border: 2px solid blue;
+ border-radius: 50px;
+}
+
+.grid{
+display: flex;
+justify-content: space-between;
+
+}
+
+.origami{
+ border: black;
+ border-radius: 20px;
+ background-color: white;
+ width: 310px;
+ font-family: Calibri;
+}
